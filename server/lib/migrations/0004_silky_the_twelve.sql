@@ -1,1 +1,0 @@
-ALTER TABLE connected_users ADD `socket_id` text NOT NULL;
