@@ -1,5 +1,4 @@
-# Real-Time-Quizz
-
+https://github.com/Kensei-s/Quizzos
 
 ## BACKEND
 
